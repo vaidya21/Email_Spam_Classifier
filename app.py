@@ -43,7 +43,7 @@ with st.sidebar:
     col1.metric("Accuracy", "97.1%")
     col2.metric("Precision", "100%")
     st.divider()
-    st.write("Built with Python, scikit-learn, and Streamlit.")
+    st.write("Built with Python, Scikit-learn and Streamlit.")
 
 # --- MAIN PAGE CONTENT ---
 st.title("📧 Email/SMS Spam Classifier")
