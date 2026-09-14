@@ -2,7 +2,7 @@
 
 A Machine Learning-powered web application that detects whether a given email or SMS message is "Spam" or "Not Spam". 
 
-**[🔴 Live App: Test the Classifier Here!](https://emailspamclassifier-cppjezbuzeed3wffobdppd.streamlit.app/)**
+**[🔴 Live App: Test the Classifier Here!](https://emailspamclassifier-gb3d7uwhx6xfp4db85533d.streamlit.app/)**
 
 ## 💡 Overview
 Traditional rule-based spam filters often struggle to keep up with modern, disguised spam. This project solves that by utilizing a Natural Language Processing (NLP) pipeline and a probabilistic Machine Learning model. The app processes raw text, extracts meaningful features, and instantly predicts the message class through a clean, interactive UI.
